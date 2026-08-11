@@ -10,5 +10,5 @@ $(call inherit-product, vendor/nothing/sounds/common/common-vendor.mk)
 # Defaults
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.config.ringtone=01_crossing.ogg \
-    ro.config.notification_sound=01_oi!.ogg \
+    ro.config.notification_sound=01_oi.ogg \
     ro.config.alarm_alert=01_trad.ogg

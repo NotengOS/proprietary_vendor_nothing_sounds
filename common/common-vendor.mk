@@ -16,7 +16,7 @@ PRODUCT_COPY_FILES += \
     vendor/nothing/sounds/common/proprietary/vendor/product/media/audio/alarms/08_saw.ogg:$(TARGET_COPY_OUT_VENDOR)/product/media/audio/alarms/08_saw.ogg \
     vendor/nothing/sounds/common/proprietary/vendor/product/media/audio/alarms/09_grains.ogg:$(TARGET_COPY_OUT_VENDOR)/product/media/audio/alarms/09_grains.ogg \
     vendor/nothing/sounds/common/proprietary/vendor/product/media/audio/alarms/10_shake.ogg:$(TARGET_COPY_OUT_VENDOR)/product/media/audio/alarms/10_shake.ogg \
-    vendor/nothing/sounds/common/proprietary/vendor/product/media/audio/notifications/01_oi!.ogg:$(TARGET_COPY_OUT_VENDOR)/product/media/audio/notifications/01_oi!.ogg \
+    vendor/nothing/sounds/common/proprietary/vendor/product/media/audio/notifications/01_oi.ogg:$(TARGET_COPY_OUT_VENDOR)/product/media/audio/notifications/01_oi.ogg \
     vendor/nothing/sounds/common/proprietary/vendor/product/media/audio/notifications/02_swanny.ogg:$(TARGET_COPY_OUT_VENDOR)/product/media/audio/notifications/02_swanny.ogg \
     vendor/nothing/sounds/common/proprietary/vendor/product/media/audio/notifications/03_doub.ogg:$(TARGET_COPY_OUT_VENDOR)/product/media/audio/notifications/03_doub.ogg \
     vendor/nothing/sounds/common/proprietary/vendor/product/media/audio/notifications/04_hum.ogg:$(TARGET_COPY_OUT_VENDOR)/product/media/audio/notifications/04_hum.ogg \
